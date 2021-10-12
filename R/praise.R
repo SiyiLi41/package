@@ -5,7 +5,7 @@
 #' 
 #' @examples 
 #' praise("Babka")
-#' 
+#' praise("Siyi)
 #' 
 #' @export
 praise<-function(name){
